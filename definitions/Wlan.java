@@ -1,6 +1,6 @@
 package de.cryptosdk.objects.definitions;
 
-public class Wan {
+public class Wlan {
 
     // internal id
     private String id;
