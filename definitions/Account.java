@@ -28,7 +28,7 @@ public class Account {
 
     // notices to the account e.g. extra information
     private String notices;
-    
+
     // timestamp of this entry
     private long lastUpdate;
 }
